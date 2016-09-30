@@ -1,6 +1,8 @@
 "Dirty hands, clean hands!" by Test Subject
 
-The story description is "This test features you, a clean napkin, a dusty tree and your hands.[line break]You can touch X, rub X, wipe X, rub X on Y and wipe X on Y.[line break]No message is given if no state change takes place.[line break][line break]"
+The story description is "This test features you, a clean napkin, a dusty tree and your hands.[line break]
+You can touch X, rub X, wipe X, rub X on Y and wipe X on Y.[line break]
+No message is given if no state change takes place.[line break][line break]"
 
 The story creation year is 2016. 
 
@@ -11,11 +13,13 @@ Forest is a room. "You are in a forest. Surrounding you are thick dark trees tha
 
 A thing can be dusty or clean.  A thing is usually clean.
 
-A dusty tree is in Forest. "The nearest tree looks dusty." It is fixed in place and dusty. A description is "If you rub your hands on this tree, you will become dusty."
+A dusty tree is in Forest. "The nearest tree looks dusty." It is fixed in place and dusty.
+A description is "If you rub your hands on this tree, you will become dusty."
 
 The player carries a napkin. It is clean. A description of napkin is "This [napkin] [are] [if napkin is dusty]dusty[else]clean[end if]."
 
-hands are a kind of thing. hands are part of every person. The description of hands is usually "You see two, one at the end of each arm." Hands are plural-named. 
+hands are a kind of thing. hands are part of every person.
+The description of hands is usually "You see two, one at the end of each arm." Hands are plural-named. 
 
 A description of your hands is "These hands are [if player is dusty]dusty[else]clean[end if]."
 
